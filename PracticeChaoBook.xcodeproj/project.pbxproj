@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		321EB6232BE928A7008CA38B /* Basic_L1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		32EAF4E82BE7D67300433CBE /* PracticeChaoBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeChaoBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		32EAF4EB2BE7D67300433CBE /* PracticeChaoBookApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeChaoBookApp.swift; sourceTree = "<group>"; };
 		32EAF4ED2BE7D67300433CBE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -33,6 +34,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		321EB6202BE92586008CA38B /* Basic */ = {
+			isa = PBXGroup;
+			children = (
+				321EB6222BE92634008CA38B /* Lesson1 */,
+			);
+			path = Basic;
+			sourceTree = "<group>";
+		};
+		321EB6212BE9259D008CA38B /* Advance */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Advance;
+			sourceTree = "<group>";
+		};
+		321EB6222BE92634008CA38B /* Lesson1 */ = {
+			isa = PBXGroup;
+			children = (
+				321EB6232BE928A7008CA38B /* Basic_L1.playground */,
+			);
+			path = Lesson1;
+			sourceTree = "<group>";
+		};
 		32EAF4DF2BE7D67300433CBE = {
 			isa = PBXGroup;
 			children = (
@@ -52,6 +76,8 @@
 		32EAF4EA2BE7D67300433CBE /* PracticeChaoBook */ = {
 			isa = PBXGroup;
 			children = (
+				321EB6202BE92586008CA38B /* Basic */,
+				321EB6212BE9259D008CA38B /* Advance */,
 				32EAF4EB2BE7D67300433CBE /* PracticeChaoBookApp.swift */,
 				32EAF4ED2BE7D67300433CBE /* ContentView.swift */,
 				32EAF4EF2BE7D67400433CBE /* Assets.xcassets */,
