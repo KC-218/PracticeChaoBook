@@ -15,6 +15,7 @@
 
 /* Begin PBXFileReference section */
 		321EB6232BE928A7008CA38B /* Basic_L1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		329ECF6D2BEA79E1006343B2 /* Basic_L2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L2.playground; sourceTree = "<group>"; };
 		32EAF4E82BE7D67300433CBE /* PracticeChaoBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeChaoBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		32EAF4EB2BE7D67300433CBE /* PracticeChaoBookApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeChaoBookApp.swift; sourceTree = "<group>"; };
 		32EAF4ED2BE7D67300433CBE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -38,6 +39,7 @@
 			isa = PBXGroup;
 			children = (
 				321EB6222BE92634008CA38B /* Lesson1 */,
+				329ECF6C2BEA774E006343B2 /* Lesson2 */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
@@ -55,6 +57,14 @@
 				321EB6232BE928A7008CA38B /* Basic_L1.playground */,
 			);
 			path = Lesson1;
+			sourceTree = "<group>";
+		};
+		329ECF6C2BEA774E006343B2 /* Lesson2 */ = {
+			isa = PBXGroup;
+			children = (
+				329ECF6D2BEA79E1006343B2 /* Basic_L2.playground */,
+			);
+			path = Lesson2;
 			sourceTree = "<group>";
 		};
 		32EAF4DF2BE7D67300433CBE = {
