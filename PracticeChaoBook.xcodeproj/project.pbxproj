@@ -17,6 +17,7 @@
 		321EB6232BE928A7008CA38B /* Basic_L1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		327B62682BFBA727007F95E8 /* Basic_L3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		329ECF6D2BEA79E1006343B2 /* Basic_L2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		32C98A972C04B6F7003BB56F /* Basic_L4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L4.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		32EAF4E82BE7D67300433CBE /* PracticeChaoBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeChaoBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		32EAF4EB2BE7D67300433CBE /* PracticeChaoBookApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeChaoBookApp.swift; sourceTree = "<group>"; };
 		32EAF4ED2BE7D67300433CBE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -50,6 +51,7 @@
 				321EB6222BE92634008CA38B /* Lesson1 */,
 				329ECF6C2BEA774E006343B2 /* Lesson2 */,
 				320E99B62BEBC23B00104C10 /* Lesson3 */,
+				32C98A932C04B5B8003BB56F /* Lesson4 */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
@@ -75,6 +77,14 @@
 				329ECF6D2BEA79E1006343B2 /* Basic_L2.playground */,
 			);
 			path = Lesson2;
+			sourceTree = "<group>";
+		};
+		32C98A932C04B5B8003BB56F /* Lesson4 */ = {
+			isa = PBXGroup;
+			children = (
+				32C98A972C04B6F7003BB56F /* Basic_L4.playground */,
+			);
+			path = Lesson4;
 			sourceTree = "<group>";
 		};
 		32EAF4DF2BE7D67300433CBE = {
