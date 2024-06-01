@@ -16,6 +16,7 @@
 /* Begin PBXFileReference section */
 		321EB6232BE928A7008CA38B /* Basic_L1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		322989EC2C0B540000F9C5CC /* Basic_L5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L5.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		322989EE2C0B5AAC00F9C5CC /* Basic_L6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L6.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		327B62682BFBA727007F95E8 /* Basic_L3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		329ECF6D2BEA79E1006343B2 /* Basic_L2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		32C98A972C04B6F7003BB56F /* Basic_L4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L4.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -54,6 +55,7 @@
 				320E99B62BEBC23B00104C10 /* Lesson3 */,
 				32C98A932C04B5B8003BB56F /* Lesson4 */,
 				322989EB2C0B53AC00F9C5CC /* Lesson5 */,
+				322989ED2C0B59E500F9C5CC /* Lesson6 */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
@@ -79,6 +81,14 @@
 				322989EC2C0B540000F9C5CC /* Basic_L5.playground */,
 			);
 			path = Lesson5;
+			sourceTree = "<group>";
+		};
+		322989ED2C0B59E500F9C5CC /* Lesson6 */ = {
+			isa = PBXGroup;
+			children = (
+				322989EE2C0B5AAC00F9C5CC /* Basic_L6.playground */,
+			);
+			path = Lesson6;
 			sourceTree = "<group>";
 		};
 		329ECF6C2BEA774E006343B2 /* Lesson2 */ = {
