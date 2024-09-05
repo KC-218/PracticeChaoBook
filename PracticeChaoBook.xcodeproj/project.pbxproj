@@ -19,6 +19,7 @@
 		322989EE2C0B5AAC00F9C5CC /* Basic_L6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L6.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		322989F02C0C70D300F9C5CC /* Basic_L7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L7.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		327B62682BFBA727007F95E8 /* Basic_L3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3297A70D2C88AF5C0012EC84 /* Basic_L11.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L11.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		329ECF6D2BEA79E1006343B2 /* Basic_L2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		32AD77152C2C504F00ECA84F /* Basic_L9.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L9.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		32AD77172C3456E900ECA84F /* Basic_L10.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L10.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -64,6 +65,7 @@
 				32D9988B2C175D7F006847A4 /* Lesson8 */,
 				32AD77142C2C502000ECA84F /* Lesson9 */,
 				32AD77162C3456C800ECA84F /* Lesson10 */,
+				3297A70C2C88AF0E0012EC84 /* Lesson11 */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
@@ -105,6 +107,14 @@
 				322989F02C0C70D300F9C5CC /* Basic_L7.playground */,
 			);
 			path = Lesson7;
+			sourceTree = "<group>";
+		};
+		3297A70C2C88AF0E0012EC84 /* Lesson11 */ = {
+			isa = PBXGroup;
+			children = (
+				3297A70D2C88AF5C0012EC84 /* Basic_L11.playground */,
+			);
+			path = Lesson11;
 			sourceTree = "<group>";
 		};
 		329ECF6C2BEA774E006343B2 /* Lesson2 */ = {
