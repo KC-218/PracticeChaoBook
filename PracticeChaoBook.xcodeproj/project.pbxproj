@@ -23,6 +23,7 @@
 		329ECF6D2BEA79E1006343B2 /* Basic_L2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		32AD77152C2C504F00ECA84F /* Basic_L9.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L9.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		32AD77172C3456E900ECA84F /* Basic_L10.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L10.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		32BF15C72C91F264003A94AE /* Basic_L12.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L12.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		32C98A972C04B6F7003BB56F /* Basic_L4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L4.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		32D9988C2C175DB5006847A4 /* Basic_L8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L8.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		32EAF4E82BE7D67300433CBE /* PracticeChaoBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeChaoBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -66,6 +67,7 @@
 				32AD77142C2C502000ECA84F /* Lesson9 */,
 				32AD77162C3456C800ECA84F /* Lesson10 */,
 				3297A70C2C88AF0E0012EC84 /* Lesson11 */,
+				32BF15C62C91F215003A94AE /* Lesson12 */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
@@ -139,6 +141,14 @@
 				32AD77172C3456E900ECA84F /* Basic_L10.playground */,
 			);
 			path = Lesson10;
+			sourceTree = "<group>";
+		};
+		32BF15C62C91F215003A94AE /* Lesson12 */ = {
+			isa = PBXGroup;
+			children = (
+				32BF15C72C91F264003A94AE /* Basic_L12.playground */,
+			);
+			path = Lesson12;
 			sourceTree = "<group>";
 		};
 		32C98A932C04B5B8003BB56F /* Lesson4 */ = {
