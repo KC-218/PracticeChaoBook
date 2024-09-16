@@ -32,6 +32,7 @@
 		32EAF4EF2BE7D67400433CBE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		32EAF4F12BE7D67400433CBE /* PracticeChaoBook.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = PracticeChaoBook.entitlements; sourceTree = "<group>"; };
 		32EAF4F32BE7D67400433CBE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		32FFA3A12C95AE6F0049ABF3 /* Basic_L13.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L13.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +69,7 @@
 				32AD77162C3456C800ECA84F /* Lesson10 */,
 				3297A70C2C88AF0E0012EC84 /* Lesson11 */,
 				32BF15C62C91F215003A94AE /* Lesson12 */,
+				32FFA3A02C95AE5A0049ABF3 /* Lesson13 */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
@@ -203,6 +205,14 @@
 				32EAF4F32BE7D67400433CBE /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		32FFA3A02C95AE5A0049ABF3 /* Lesson13 */ = {
+			isa = PBXGroup;
+			children = (
+				32FFA3A12C95AE6F0049ABF3 /* Basic_L13.playground */,
+			);
+			path = Lesson13;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
