@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3209D8302CAD1C8A00B228F2 /* 15 Set.docx in Resources */ = {isa = PBXBuildFile; fileRef = 3209D82F2CAD1C8A00B228F2 /* 15 Set.docx */; };
+		3209D8352CAD849C00B228F2 /* 16 Dictionary.docx in Resources */ = {isa = PBXBuildFile; fileRef = 3209D8342CAD849C00B228F2 /* 16 Dictionary.docx */; };
 		32EAF4EC2BE7D67300433CBE /* PracticeChaoBookApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EAF4EB2BE7D67300433CBE /* PracticeChaoBookApp.swift */; };
 		32EAF4EE2BE7D67300433CBE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EAF4ED2BE7D67300433CBE /* ContentView.swift */; };
 		32EAF4F02BE7D67400433CBE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32EAF4EF2BE7D67400433CBE /* Assets.xcassets */; };
@@ -17,6 +18,8 @@
 /* Begin PBXFileReference section */
 		3209D82D2CAD1C2500B228F2 /* Basic_L15.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L15.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3209D82F2CAD1C8A00B228F2 /* 15 Set.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "15 Set.docx"; sourceTree = "<group>"; };
+		3209D8332CAD848C00B228F2 /* Basic_L16.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L16.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3209D8342CAD849C00B228F2 /* 16 Dictionary.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "16 Dictionary.docx"; sourceTree = "<group>"; };
 		321EB6232BE928A7008CA38B /* Basic_L1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		322989EC2C0B540000F9C5CC /* Basic_L5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L5.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		322989EE2C0B5AAC00F9C5CC /* Basic_L6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L6.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -67,6 +70,23 @@
 			path = Doc;
 			sourceTree = "<group>";
 		};
+		3209D8312CAD844400B228F2 /* Lesson16 */ = {
+			isa = PBXGroup;
+			children = (
+				3209D8322CAD847C00B228F2 /* Doc */,
+				3209D8332CAD848C00B228F2 /* Basic_L16.playground */,
+			);
+			path = Lesson16;
+			sourceTree = "<group>";
+		};
+		3209D8322CAD847C00B228F2 /* Doc */ = {
+			isa = PBXGroup;
+			children = (
+				3209D8342CAD849C00B228F2 /* 16 Dictionary.docx */,
+			);
+			path = Doc;
+			sourceTree = "<group>";
+		};
 		320E99B62BEBC23B00104C10 /* Lesson3 */ = {
 			isa = PBXGroup;
 			children = (
@@ -93,6 +113,7 @@
 				32FFA3A02C95AE5A0049ABF3 /* Lesson13 */,
 				32912F002C98037500953E86 /* Lesson14 */,
 				3209D82C2CAD1BB100B228F2 /* Lesson15 */,
+				3209D8312CAD844400B228F2 /* Lesson16 */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
@@ -307,6 +328,7 @@
 				32EAF4F42BE7D67400433CBE /* Preview Assets.xcassets in Resources */,
 				3209D8302CAD1C8A00B228F2 /* 15 Set.docx in Resources */,
 				32EAF4F02BE7D67400433CBE /* Assets.xcassets in Resources */,
+				3209D8352CAD849C00B228F2 /* 16 Dictionary.docx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
