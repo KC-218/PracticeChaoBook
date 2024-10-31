@@ -10,6 +10,7 @@
 		3209D8302CAD1C8A00B228F2 /* 15 Set.docx in Resources */ = {isa = PBXBuildFile; fileRef = 3209D82F2CAD1C8A00B228F2 /* 15 Set.docx */; };
 		3209D8352CAD849C00B228F2 /* 16 Dictionary.docx in Resources */ = {isa = PBXBuildFile; fileRef = 3209D8342CAD849C00B228F2 /* 16 Dictionary.docx */; };
 		3209D83A2CAEA73100B228F2 /* 17 Protocol & Generic.docx in Resources */ = {isa = PBXBuildFile; fileRef = 3209D8392CAEA73100B228F2 /* 17 Protocol & Generic.docx */; };
+		327323442CD387D000D6E639 /* 19A Closure.docx in Resources */ = {isa = PBXBuildFile; fileRef = 327323432CD387D000D6E639 /* 19A Closure.docx */; };
 		32A9FDB02CC68F1700CBE89C /* 18 Function.docx in Resources */ = {isa = PBXBuildFile; fileRef = 32A9FDAF2CC68F1700CBE89C /* 18 Function.docx */; };
 		32EAF4EC2BE7D67300433CBE /* PracticeChaoBookApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EAF4EB2BE7D67300433CBE /* PracticeChaoBookApp.swift */; };
 		32EAF4EE2BE7D67300433CBE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EAF4ED2BE7D67300433CBE /* ContentView.swift */; };
@@ -28,6 +29,8 @@
 		322989EC2C0B540000F9C5CC /* Basic_L5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L5.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		322989EE2C0B5AAC00F9C5CC /* Basic_L6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L6.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		322989F02C0C70D300F9C5CC /* Basic_L7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L7.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		327323412CD3877400D6E639 /* Basic_L19.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L19.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		327323432CD387D000D6E639 /* 19A Closure.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "19A Closure.docx"; sourceTree = "<group>"; };
 		327B62682BFBA727007F95E8 /* Basic_L3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		32912F012C9803A800953E86 /* Basic_L14.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L14.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3297A70D2C88AF5C0012EC84 /* Basic_L11.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_L11.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -139,6 +142,7 @@
 				3209D8312CAD844400B228F2 /* Lesson16 */,
 				3209D8362CAEA67E00B228F2 /* Lesson17 */,
 				32A9FDAC2CC68EA100CBE89C /* Lesson18 */,
+				327323402CD3874400D6E639 /* Lesson19 */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
@@ -180,6 +184,23 @@
 				322989F02C0C70D300F9C5CC /* Basic_L7.playground */,
 			);
 			path = Lesson7;
+			sourceTree = "<group>";
+		};
+		327323402CD3874400D6E639 /* Lesson19 */ = {
+			isa = PBXGroup;
+			children = (
+				327323422CD3878B00D6E639 /* Doc */,
+				327323412CD3877400D6E639 /* Basic_L19.playground */,
+			);
+			path = Lesson19;
+			sourceTree = "<group>";
+		};
+		327323422CD3878B00D6E639 /* Doc */ = {
+			isa = PBXGroup;
+			children = (
+				327323432CD387D000D6E639 /* 19A Closure.docx */,
+			);
+			path = Doc;
 			sourceTree = "<group>";
 		};
 		32912F002C98037500953E86 /* Lesson14 */ = {
@@ -369,6 +390,7 @@
 			files = (
 				3209D83A2CAEA73100B228F2 /* 17 Protocol & Generic.docx in Resources */,
 				32EAF4F42BE7D67400433CBE /* Preview Assets.xcassets in Resources */,
+				327323442CD387D000D6E639 /* 19A Closure.docx in Resources */,
 				3209D8302CAD1C8A00B228F2 /* 15 Set.docx in Resources */,
 				32EAF4F02BE7D67400433CBE /* Assets.xcassets in Resources */,
 				3209D8352CAD849C00B228F2 /* 16 Dictionary.docx in Resources */,
